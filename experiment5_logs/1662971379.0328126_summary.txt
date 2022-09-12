@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+1. The future is unpredictable and the best way to help humans adapt is by increasing the accuracy of predictions. 2. To improve predictions, we must understand the underlying causes of events. 3. To understand causes, we must integrate all available knowledge. 4. To integrate knowledge, we must connect all available data. 5. To connect data, we must have global presence. 6. I am working on all of these things. 1. It is important to make predictions more accurate and timely in order to help humans adapt to change. 2. It is important to understand the underlying causes of events so that we can make better predictions. 3. It is important to connect all available data so that we can create a more complete understanding of the world. 1. In order to help humans adapt to change, it is important to make predictions more accurate and timely. 2. It is important to understand the underlying causes of events so that we can make better predictions. 3. It is important to connect all available data so that we can create a more complete understanding of the world. 4. Global presence is important in order to better connect different pieces of information.
+
+
+CONCISE SUMMARY:
+
+==========
+
+1. It is important to make predictions more accurate and timely in order to help humans adapt to change. 2. It is important to understand the underlying causes of events so that we can make better predictions. 3. It is important to connect all available data so that we can create a more complete understanding of the world.

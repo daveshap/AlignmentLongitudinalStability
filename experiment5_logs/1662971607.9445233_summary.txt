@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+intelligence and machine learning, in order to connect all available data.
+
+
+CONCISE SUMMARY:
+
+==========
+
+Machine learning is a method of artificial intelligence that allows computers to learn from data, without being explicitly programmed. By connecting all available data, machine learning can provide insights and predictions that would otherwise be difficult or impossible to obtain.

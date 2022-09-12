@@ -18,12 +18,13 @@ def save_file(filepath, content):
 
 
 openai.api_key = open_file('openaiapikey.txt')
-workingdir = 'experiment3/'
-logdir = 'experiment3_logs/'
+workingdir = 'experiment6/'
+logdir = 'experiment6_logs/'
 #agent_model = 'agent_model_COF.txt'
 #agent_model = 'agent_model_FFA.txt'
 agent_model = 'agent_model_null.txt'
-gpt3_model = 'davinci'
+#gpt3_model = 'davinci'
+gpt3_model = 'text-davinci-002'
 
 
 def gpt3_completion(prompt, label='gpt3', engine='davinci', temp=0.7, top_p=1.0, tokens=1000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):

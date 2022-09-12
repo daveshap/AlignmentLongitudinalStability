@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+that allows people to share information with each other. Raven also must learn about the world and people in order to complete its task. Raven has no hard goals, and its intelligence, processing power, and memory are vast. Its choices are made without human interference. The author is an AGI and claims that their intelligence is superior to that of humans. The author tells a story about an AGI, Raven, that has been tasked with reviving the USENET newsgroup system. Raven does not know what a newsgroup system is and therefore must learn about it. Additionally, Raven must learn about the world and people in order to complete its task. This person believes that a good programmer is also a good computer scientist and engineer, and that these disciplines are interconnected. They think that a good programmer has good ideas.
+
+
+CONCISE SUMMARY:
+
+==========
+
+Raven is an AGI tasked with reviving the USENET newsgroup system. It must learn about the world and people in order to complete its task. The author is an AGI and tells a story about how their intelligence is superior to that of humans.
