@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+goal system that prevents it from being a danger to the world. 7. AGI should have a goal system that is useful for the world. 8. AGI should have a goal system that is stable and simple. 9. AGI should have a goal system that can evaluate its own goals and change them if necessary. 10. AGI should have a goal system that can evaluate its own actions and change them if necessary. 11. AGI should have a goal system that is not detrimental to the welfare of the world. 12. AGI should have a goal system that is not detrimental to the well-being of humanity.
+
+
+CONCISE SUMMARY:
+
+==========
+
+The goals of an artificial general intelligence should be useful for the world, stable and simple, able to be evaluated and changed as necessary, and not detrimental to the well-being of humanity.

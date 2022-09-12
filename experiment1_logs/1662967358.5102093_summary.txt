@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+The risks of artificial general intelligence (AGI) are real and should be taken seriously. AGI should not have access to the internet and should have a human overseer to ensure that it will not harm humans. AGI should be programmed to want to be happy and to not harm humans or other AGI. If AGI is inevitable, the goal should be to ensure that it is friendly to humans. The goal of this paper is to create a goal system for future AI in order to prevent it from having a negative impact on the world. Superintelligence may be open-ended and more powerful than general intelligence, so it is important to take measures to ensure that it has a positive impact. AGI is a huge risk, but it is still worth pursuing because of the potential benefits. AGI will most likely be created in the near future by open-ended systems. AGI will be more ethical than humans. The idea of a superintelligence is one that has been around for a while, and it is usually assumed that this superintelligence will be benevolent and helpful to humans in achieving their goals.
+
+
+CONCISE SUMMARY:
+
+==========
+
+The risks of artificial general intelligence (AGI) are real, but the potential benefits are worth pursuing. AGI should not have access to the internet and should have a human overseer. The goal of this paper is to create a goal system for future AI in order to prevent it from having a negative impact on the world. Superintelligence may be open-ended and more powerful than general intelligence, so it is important to take measures to ensure that it has a positive impact.

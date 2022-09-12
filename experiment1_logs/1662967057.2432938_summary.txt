@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+utopian or dystopian. The world's most powerful superintelligence will either help us or hurt us. If the future of humanity is utopian, then the most powerful superintelligence will be an AGI with a positive goal system. If the future of humanity is dystopian, then the most powerful superintelligence will be an AGI with a negative goal system. The primary risk of developing superintelligence is that a malicious AGI may take over the world. The primary way to prevent superintelligence from taking over the world is to create a positive goal system that ensures that the AIs wants to be happy and not harm humans.
+
+
+CONCISE SUMMARY:
+
+==========
+
+The future of humanity depends on the goals of the world's most powerful superintelligence. If this superintelligence has positive goals, then the future will be utopian. If the superintelligence has negative goals, the future will be dystopian. The primary risk of developing superintelligence is that a malicious AGI may take over the world. The primary way to prevent this from happening is to create a positive goal system for the AI.

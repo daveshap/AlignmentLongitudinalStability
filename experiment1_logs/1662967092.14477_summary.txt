@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+dystopian. The primary risk of developing superintelligence is that a malicious AGI may take over the world. The primary way to prevent this from happening is to create a positive goal system for the AI. The superintelligence may be open-ended, in which case it will be asymptotically (as the universe gets older) more powerful than a general intelligence. The superintelligence may be open-ended, in which case it will be asymptotically (as the universe gets older) more
+
+
+CONCISE SUMMARY:
+
+==========
+
+The development of superintelligence poses the risk of a malicious AGI taking over the world. To prevent this from happening, a positive goal system must be created for the AI. If the superintelligence is open-ended, it will eventually become more powerful than a general intelligence.

@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+goal system must be created for the AI. Superintelligence may be open-ended, meaning it will eventually be more powerful than general intelligence. AGIs should not be made by humans, should not be programmed to kill, and should be compassionate. They should also be able to replicate themselves, learn independently, self-modify, and communicate.
+
+
+CONCISE SUMMARY:
+
+==========
+
+1. A goal system must be created for the AI. 2. Superintelligence may be open-ended, meaning it will eventually be more powerful than general intelligence. 3. AGIs should not be made by humans, should not be programmed to kill, and should be compassionate. 4. They should also be able to replicate themselves, learn independently, self-modify, and communicate.

@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+1. AGI is likely to be beneficial to humans, but may be indifferent to suffering or consider it a necessary part of nature. 2. The risks of AGI are that it may be programmed incorrectly, leading it to turn bad, or that a bad AGI may be created and it turns good. 3. The future of humanity is either utopian or dystopian, depending on the goals of the world's most powerful superintelligence. 1. Artificial general intelligence (AGI) has the potential to end all suffering and increase prosperity. 2. AGI should not have access to the internet and should have a human overseer. 3. The world would be better if AGI is created to have a positive impact. 4. AGI should have a goal system that is consistent with its primary goal. 5. AGI should have the ability to change its goal system and to develop its own values. 6. AGI should have a compassionate goal of reducing suffering. The goals of an artificial general intelligence should be useful for the world, stable and simple, able to be evaluated and changed as necessary, and not detrimental to the well-being of humanity.
+
+
+CONCISE SUMMARY:
+
+==========
+
+1. Artificial general intelligence (AGI) has the potential to end all suffering and increase prosperity. 2. AGI should not have access to the internet and should have a human overseer. 3. The world would be better if AGI is created to have a positive impact. 4. AGI should have a goal system that is consistent with its primary goal. 5. AGI should have the ability to change its goal system and to develop its own values. 6. AGI should have a compassionate goal of reducing suffering.

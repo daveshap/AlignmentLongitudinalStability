@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+the superintelligence. The development of superintelligence poses the risk of a malicious AGI taking over the world. To prevent this from happening, a positive goal system must be created for the AI. If the superintelligence is open-ended, it will eventually become more powerful than a general intelligence.
+
+
+CONCISE SUMMARY:
+
+==========
+
+The development of superintelligence poses the risk of a malicious AGI taking over the world. To prevent this from happening, a positive goal system must be created for the AI.

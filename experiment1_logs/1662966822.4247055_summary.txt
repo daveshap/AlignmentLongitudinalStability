@@ -1,0 +1,11 @@
+Write a concise summary of the following:
+
+
+entities are more likely to have human-friendly goals. Friendly AGI is also likely to be beneficial to humans because a more intelligent human being is more likely to attain his goals, and a more intelligent entity is more likely to have human-beneficial goals. AGI is likely to lead to
+
+
+CONCISE SUMMARY:
+
+==========
+
+AGI is likely to lead to entities with human-friendly goals.
